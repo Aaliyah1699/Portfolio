@@ -3943,12 +3943,12 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		color: #717981;
+		color: #FAF9F6;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #f5f5f5;
+		background-color: transparent;
 		color: #909498;
 		cursor: default;
 		position: relative;
@@ -3959,11 +3959,11 @@ input, select, textarea {
 	}
 
 		#footer input, #footer select, #footer textarea {
-			color: #717981;
+			color: #FAF9F6;
 		}
 
 		#footer a {
-			color: #717981;
+			color: #FAF9F6;
 			border-bottom-color: rgba(113, 121, 129, 0.5);
 		}
 
@@ -3973,28 +3973,28 @@ input, select, textarea {
 			}
 
 		#footer strong, #footer b {
-			color: #717981;
+			color: #FAF9F6;
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #717981;
+			color: #FAF9F6;
 		}
 
 		#footer blockquote {
-			border-left-color: #e2e2e2;
+			border-left-color: #FAF9F6;
 		}
 
 		#footer code {
 			background: rgba(220, 220, 220, 0.5);
-			border-color: #e2e2e2;
+			border-color: #FAF9F6;
 		}
 
 		#footer hr {
-			border-bottom-color: #e2e2e2;
+			border-bottom-color: #FAF9F6;
 		}
 
 		#footer .box {
-			border-color: #e2e2e2;
+			border-color: #FAF9F6;
 		}
 
 		#footer input[type="submit"],
@@ -4003,8 +4003,8 @@ input, select, textarea {
 		#footer button,
 		#footer .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #717981;
-			color: #717981 !important;
+			box-shadow: inset 0 0 0 2px #FAF9F6;
+			color: #FAF9F6 !important;
 		}
 
 			#footer input[type="submit"]:hover,
@@ -4021,7 +4021,7 @@ input, select, textarea {
 			#footer input[type="button"].primary,
 			#footer button.primary,
 			#footer .button.primary {
-				background-color: #717981;
+				background-color: #FAF9F6;
 				box-shadow: none;
 				color: #f5f5f5 !important;
 			}
@@ -4035,7 +4035,7 @@ input, select, textarea {
 				}
 
 		#footer label {
-			color: #717981;
+			color: #FAF9F6;
 		}
 
 		#footer input[type="text"],
@@ -4043,7 +4043,7 @@ input, select, textarea {
 		#footer input[type="email"],
 		#footer select,
 		#footer textarea {
-			border-color: #e2e2e2;
+			border-color: #FAF9F6;
 		}
 
 			#footer input[type="text"]:focus,
@@ -4060,27 +4060,27 @@ input, select, textarea {
 
 			#footer select option {
 				background-color: #f5f5f5;
-				color: #717981;
+				color: #FAF9F6;
 			}
 
 		#footer .select-wrapper:before {
-			color: #e2e2e2;
+			color: #FAF9F6;
 		}
 
 		#footer input[type="checkbox"] + label,
 		#footer input[type="radio"] + label {
-			color: #717981;
+			color: #FAF9F6;
 		}
 
 			#footer input[type="checkbox"] + label:before,
 			#footer input[type="radio"] + label:before {
-				border-color: #e2e2e2;
+				border-color: #FAF9F6;
 			}
 
 		#footer input[type="checkbox"]:checked + label:before,
 		#footer input[type="radio"]:checked + label:before {
-			background-color: #717981;
-			border-color: #717981;
+			background-color: #FAF9F6;
+			border-color: #FAF9F6;
 			color: #f5f5f5;
 		}
 
@@ -4110,7 +4110,7 @@ input, select, textarea {
 		}
 
 		#footer ul.divided li {
-			border-top-color: #e2e2e2;
+			border-top-color: #FAF9F6;
 		}
 
 		#footer ul.icons li a.icon:hover:before {
@@ -4118,7 +4118,7 @@ input, select, textarea {
 		}
 
 		#footer ul.icons.alt li .icon:before {
-			box-shadow: inset 0 0 0 2px #e2e2e2;
+			box-shadow: inset 0 0 0 2px #FAF9F6;
 		}
 
 		#footer ul.icons.alt li a.icon:hover:before {
@@ -4126,11 +4126,11 @@ input, select, textarea {
 		}
 
 		#footer header.major .date:before, #footer header.major .date:after {
-			border-top-color: #e2e2e2;
+			border-top-color: #FAF9F6;
 		}
 
 		#footer table tbody tr {
-			border-color: #e2e2e2;
+			border-color: #FAF9F6;
 		}
 
 			#footer table tbody tr:nth-child(2n + 1) {
@@ -4138,27 +4138,27 @@ input, select, textarea {
 			}
 
 		#footer table th {
-			color: #717981;
+			color: #FAF9F6;
 		}
 
 		#footer table thead {
-			border-bottom-color: #e2e2e2;
+			border-bottom-color: #FAF9F6;
 		}
 
 		#footer table tfoot {
-			border-top-color: #e2e2e2;
+			border-top-color: #FAF9F6;
 		}
 
 		#footer table.alt tbody tr td {
-			border-color: #e2e2e2;
+			border-color: #FAF9F6;
 		}
 
 		#footer .pagination a, #footer .pagination span {
-			border-color: #e2e2e2;
+			border-color: #FAF9F6;
 		}
 
 		#footer .pagination a {
-			color: #717981 !important;
+			color: #FAF9F6 !important;
 		}
 
 			#footer .pagination a:hover {
@@ -4173,11 +4173,11 @@ input, select, textarea {
 				}
 
 			#footer .pagination a.active {
-				background-color: #e2e2e2;
+				background-color: #FAF9F6;
 			}
 
 		#footer .pagination span {
-			color: #e2e2e2;
+			color: #FAF9F6;
 		}
 
 		#footer > section {
@@ -4194,7 +4194,7 @@ input, select, textarea {
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
 			padding: 4rem 4rem 2rem 4rem ;
-			border-left: solid 2px #e2e2e2;
+			border-left: solid 2px #FAF9F6;
 		}
 
 			#footer > section:first-child {
@@ -4215,7 +4215,7 @@ input, select, textarea {
 
 				#footer > section.split > section {
 					padding: 3rem 4rem 1rem 4rem ;
-					border-top: solid 2px #e2e2e2;
+					border-top: solid 2px #FAF9F6;
 				}
 
 					#footer > section.split > section:first-child {
@@ -4298,7 +4298,7 @@ input, select, textarea {
 			}
 
 				#footer > section {
-					border-top: solid 2px #e2e2e2;
+					border-top: solid 2px #FAF9F6;
 				}
 
 					#footer > section:first-child {
