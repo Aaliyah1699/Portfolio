@@ -1,6 +1,6 @@
 # 🌟 Aaliyah Montgomery Portfolio
 
-Hi, I’m **Aaliyah Montgomery** — a **Data Analyst & Software Developer** with 4+ years of hands-on experience turning ideas into real-world solutions.  
+Hello, I’m **Aaliyah Montgomery**, a **Data Analyst & Software Developer** with 4+ years of hands-on experience turning ideas into real-world solutions.  
 From building full-stack applications to cleaning and analyzing complex datasets, I bring both the creative and technical sides together.
 
 ---
@@ -39,11 +39,11 @@ Every project here was **built and/or analyzed by me from the ground up**, refle
 🔹 **Software Development Projects**
 
 -   [SynthWave](https://synthwave-app.onrender.com/) 🛍️ — MERN E-commerce app ready for real-world use
--   CodeClinic 🏥 — AI-powered chatbot built with Python and Django
+-   CodeClinic 🏥 — AI-powered chatbot built with Python, Django, & OpenAI API
 -   [The Curiosities of Aaliyah](https://aaliyah-curiosities.onrender.com/) 🖥️ — MERN Blog platform
 -   [RealtyRise Website](https://realtyrise.onrender.com/) 🏡 — MERN Real Estate platform
 -   The Inkwell Serenades 🖋️ — Blogging platform with C# + SQLite API and Angular + TypeScript UI
--   Fairy GodBot 🧚🏾‍♀️ — MERN + TypeScript AI chatbot
+-   Fairy GodBot 🧚🏾‍♀️ — AI chatbot MERN + TypeScript, & OpenAI API
 -   [Moonlit Reverie](https://moonlit-reverie-111.netlify.app/) 🔮 — React-based e-commerce frontend
 -   [Visual Voyage](https://visual-voyage.netlify.app/) 🏞️ — React image search app (Unsplash API)
 -   [Meme Generator](https://aaliyahs-meme-generator-1.netlify.app/) 🤳🏾 — React meme creation app
@@ -70,4 +70,4 @@ Every project here was **built and/or analyzed by me from the ground up**, refle
 
 ---
 
-> “Creativity is not the finding of a thing, but the making something out of it after it is found.” – James Russell Lowell
+> *“Creativity is not the finding of a thing, but the making something out of it after it is found.” – James Russell Lowell*
