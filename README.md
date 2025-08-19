@@ -1,6 +1,6 @@
 # 🌟 Aaliyah Montgomery Portfolio
 
-Hello, I’m **Aaliyah Montgomery**, a **Data Analyst & Software Developer** with 4+ years of hands-on experience turning ideas into real-world solutions.  
+Hello, I’m *Aaliyah Montgomery*, a **Data Analyst & Software Developer** with 4+ years of hands-on experience turning ideas into real-world solutions.  
 From building full-stack applications to cleaning and analyzing complex datasets, I bring both the creative and technical sides together.
 
 ---
